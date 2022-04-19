@@ -3,7 +3,7 @@ package versionamento.utils;
 public class Utils {
 
 	public String versao() {
-		return "1.00.00";
+		return "1.00.01";
 	}
 	
 }
